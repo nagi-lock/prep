@@ -17,6 +17,7 @@ def binary_search(array) -> int:
         else:
             left = mid + 1
     return left
+```
 
 ### Binary Search Notes (Short Form)
 
