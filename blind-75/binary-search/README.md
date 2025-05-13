@@ -30,3 +30,4 @@ def binary_search(array) -> int:
 - [ ] [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) — Needs final C++ implementation with overflow-safe binary search
 
 ## condition mein hamesha tumhe neglect karna hai kuch bhi karke
+## (x + mid - 1) / mid; (ceil function)
